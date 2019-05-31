@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "47360449441",
+    "firebase_url": "https://tugas-demo.firebaseio.com",
+    "project_id": "tugas-demo",
+    "storage_bucket": "tugas-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47360449441:android:440cb24c4a99cb5c",
+        "android_client_info": {
+          "package_name": "com.ardi.tugasbesar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47360449441-a17vmrc39oq5gv2u6p5gv1ffsdhdc3k9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ardi.tugasbesar",
+            "certificate_hash": "34b830a1592622cd5016874b1ad77a829d043dae"
+          }
+        },
+        {
+          "client_id": "47360449441-lmtrppruk5e4c1ritp225da97f4na3ku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJXFSVsA9MS4JOdSomYWiiZ7yP-9s-k9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47360449441-lmtrppruk5e4c1ritp225da97f4na3ku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
